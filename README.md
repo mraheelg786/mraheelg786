@@ -1,6 +1,58 @@
 # 💫 About Me:
 Hi, I’m Muhammad Raheel, a Senior Software Engineer / WordPress & Shopify Specialist with 6+ years of professional experience in building scalable, high-performance web solutions.<br><br>I specialize in custom WordPress development, Shopify & Shopify Plus, and headless architectures using Next.js. Over the years, I’ve worked on complex enterprise-level projects, led development initiatives, and collaborated closely with cross-functional teams including DevOps, SEO, Content, and Product teams.<br><br>Currently, I’m working at AlphaBOLD, where I lead custom development projects, manage cloud infrastructure on AWS, and support 40+ production websites with a strong focus on performance, security, and maintainability.
 
+🧠 Core Expertise
+
+WordPress
+
+Custom themes & plugins (from scratch)
+
+Headless WordPress with Next.js
+
+ACF Pro, Gutenberg, Elementor, Oxygen
+
+Performance optimization & security hardening
+
+WPGraphQL & REST APIs
+
+Shopify / Shopify Plus
+
+Custom theme development
+
+Shopify Scripts (Ruby) for advanced checkout logic
+
+Private app development
+
+Variant-based filtering & custom product logic
+
+Modern Web & App Development
+
+Next.js, React.js
+
+Node.js
+
+Headless CMS architectures
+
+REST & GraphQL integrations
+
+Enterprise & Integrations
+
+Microsoft Dynamics 365 Business Central (custom development)
+
+NetSuite integrations
+
+Zapier automation workflows
+
+DevOps & Infrastructure
+
+AWS (Lightsail, EC2, S3)
+
+Server optimization & deployments
+
+CI/CD workflows
+
+DNS & hosting migrations (WP Engine → AWS)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mraheelg786/) 
