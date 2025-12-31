@@ -1,57 +1,99 @@
 # 💫 About Me:
 Hi, I’m Muhammad Raheel, a Senior Software Engineer / WordPress & Shopify Specialist with 6+ years of professional experience in building scalable, high-performance web solutions.<br><br>I specialize in custom WordPress development, Shopify & Shopify Plus, and headless architectures using Next.js. Over the years, I’ve worked on complex enterprise-level projects, led development initiatives, and collaborated closely with cross-functional teams including DevOps, SEO, Content, and Product teams.<br><br>Currently, I’m working at AlphaBOLD, where I lead custom development projects, manage cloud infrastructure on AWS, and support 40+ production websites with a strong focus on performance, security, and maintainability.
 
-🧠 Core Expertise
+<h2 data-start="113" data-end="133">🧠 Core Expertise</h2>
+<ul data-start="135" data-end="994">
+ 	<li data-start="135" data-end="347">
+<p data-start="137" data-end="150"><strong data-start="137" data-end="150">WordPress</strong></p>
 
-WordPress
+<ul data-start="153" data-end="347">
+ 	<li data-start="153" data-end="193">
+<p data-start="155" data-end="193">Custom themes &amp; plugins (from scratch)</p>
+</li>
+ 	<li data-start="196" data-end="229">
+<p data-start="198" data-end="229">Headless WordPress with Next.js</p>
+</li>
+ 	<li data-start="232" data-end="271">
+<p data-start="234" data-end="271">ACF Pro, Gutenberg, Elementor, Oxygen</p>
+</li>
+ 	<li data-start="274" data-end="321">
+<p data-start="276" data-end="321">Performance optimization &amp; security hardening</p>
+</li>
+ 	<li data-start="324" data-end="347">
+<p data-start="326" data-end="347">WPGraphQL &amp; REST APIs</p>
+</li>
+</ul>
+</li>
+ 	<li data-start="349" data-end="540">
+<p data-start="351" data-end="377"><strong data-start="351" data-end="377">Shopify / Shopify Plus</strong></p>
 
-Custom themes & plugins (from scratch)
+<ul data-start="380" data-end="540">
+ 	<li data-start="380" data-end="406">
+<p data-start="382" data-end="406">Custom theme development</p>
+</li>
+ 	<li data-start="409" data-end="461">
+<p data-start="411" data-end="461">Shopify Scripts (Ruby) for advanced checkout logic</p>
+</li>
+ 	<li data-start="464" data-end="489">
+<p data-start="466" data-end="489">Private app development</p>
+</li>
+ 	<li data-start="492" data-end="540">
+<p data-start="494" data-end="540">Variant-based filtering &amp; custom product logic</p>
+</li>
+</ul>
+</li>
+ 	<li data-start="542" data-end="673">
+<p data-start="544" data-end="576"><strong data-start="544" data-end="576">Modern Web &amp; App Development</strong></p>
 
-Headless WordPress with Next.js
+<ul data-start="579" data-end="673">
+ 	<li data-start="579" data-end="598">
+<p data-start="581" data-end="598">Next.js, React.js</p>
+</li>
+ 	<li data-start="601" data-end="610">
+<p data-start="603" data-end="610">Node.js</p>
+</li>
+ 	<li data-start="613" data-end="641">
+<p data-start="615" data-end="641">Headless CMS architectures</p>
+</li>
+ 	<li data-start="644" data-end="673">
+<p data-start="646" data-end="673">REST &amp; GraphQL integrations</p>
+</li>
+</ul>
+</li>
+ 	<li data-start="675" data-end="829">
+<p data-start="677" data-end="706"><strong data-start="677" data-end="706">Enterprise &amp; Integrations</strong></p>
 
-ACF Pro, Gutenberg, Elementor, Oxygen
+<ul data-start="709" data-end="829">
+ 	<li data-start="709" data-end="771">
+<p data-start="711" data-end="771">Microsoft Dynamics 365 Business Central (custom development)</p>
+</li>
+ 	<li data-start="774" data-end="797">
+<p data-start="776" data-end="797">NetSuite integrations</p>
+</li>
+ 	<li data-start="800" data-end="829">
+<p data-start="802" data-end="829">Zapier automation workflows</p>
+</li>
+</ul>
+</li>
+ 	<li data-start="831" data-end="994">
+<p data-start="833" data-end="860"><strong data-start="833" data-end="860">DevOps &amp; Infrastructure</strong></p>
 
-Performance optimization & security hardening
-
-WPGraphQL & REST APIs
-
-Shopify / Shopify Plus
-
-Custom theme development
-
-Shopify Scripts (Ruby) for advanced checkout logic
-
-Private app development
-
-Variant-based filtering & custom product logic
-
-Modern Web & App Development
-
-Next.js, React.js
-
-Node.js
-
-Headless CMS architectures
-
-REST & GraphQL integrations
-
-Enterprise & Integrations
-
-Microsoft Dynamics 365 Business Central (custom development)
-
-NetSuite integrations
-
-Zapier automation workflows
-
-DevOps & Infrastructure
-
-AWS (Lightsail, EC2, S3)
-
-Server optimization & deployments
-
-CI/CD workflows
-
-DNS & hosting migrations (WP Engine → AWS)
+<ul data-start="863" data-end="994">
+ 	<li data-start="863" data-end="889">
+<p data-start="865" data-end="889">AWS (Lightsail, EC2, S3)</p>
+</li>
+ 	<li data-start="892" data-end="927">
+<p data-start="894" data-end="927">Server optimization &amp; deployments</p>
+</li>
+ 	<li data-start="930" data-end="947">
+<p data-start="932" data-end="947">CI/CD workflows</p>
+</li>
+ 	<li data-start="950" data-end="994">
+<p data-start="952" data-end="994">DNS &amp; hosting migrations (WP Engine → AWS)</p>
+</li>
+</ul>
+</li>
+</ul>
 
 
 ## 🌐 Socials:
